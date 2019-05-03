@@ -1,0 +1,4 @@
+install.sh install all apt pack for proxy server
+login.sh log into the proxy server
+proxy.sh  setup my ssh tunnel
+toaws.sh  connect to aws
