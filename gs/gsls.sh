@@ -1,1 +1,1 @@
-gsutils ls gs://ssystore1/$1
+gsutil ls gs://ssystore1/$1
