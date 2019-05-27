@@ -1,2 +1,3 @@
-ssh -L 3128:localhost:8888 -i  ~/Downloads/japanproxy.pem.txt ubuntu@54.65.93.191
+ssh -L 3128:localhost:8888 -i   /cygdrive/c/Users/cloudpcqt08/Downloads/japanproxy.pem.txt ubuntu@3.113.106.179
+
 
