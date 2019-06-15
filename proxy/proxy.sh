@@ -1,4 +1,4 @@
-ssh -L 3128:localhost:8888 -i   ~/Downloads/japanproxy.pem.txt ubuntu@54.238.229.44
+ssh -L 3128:localhost:8888 -i   ~/Downloads/japanproxy.pem.txt ubuntu@52.192.199.162
 
 
 
