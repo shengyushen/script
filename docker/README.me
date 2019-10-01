@@ -1,0 +1,12 @@
+# export a container to an image
+nvidia-docker export <contianer> -o <tar file>
+# import an image with a name
+nvidia-docker import lingvo1804.tar tensorflow:lingvo
+# run an image with a new named container
+# but it will stop automatically after exit
+# this is also the place to give a new -v volumn mapping
+nvidia-docker run -it --name lingvo tensorflow:lingvo /bin/bash
+# I need to manually start and exec it
+nvidia-docker start lingvo
+nvidia-docker exec -it lingvo /bin/bash
+
