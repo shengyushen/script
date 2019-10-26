@@ -1,0 +1,2 @@
+1 newdocker.sh to create a new docker
+2 then dockerstartexec.sh <ssyXXX> to run it

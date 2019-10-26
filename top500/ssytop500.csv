@@ -1,0 +1,500 @@
+1,143500,200794.88,0.714659657,Infiniband,Dual-rail Mellanox EDR Infiniband
+2,94640,125712,0.75283187,Infiniband,Dual-rail Mellanox EDR Infiniband
+3,93014.59388,125435.904,0.741530861,Custom Interconnect,Sunway
+4,61444.5,100678.664,0.610303093,Custom Interconnect,TH Express-2
+5,21230,27154.3,0.781828292,Custom Interconnect,Aries interconnect 
+6,20158.7,41461.15,0.486206967,Custom Interconnect,Aries interconnect 
+7,19880,32576.63488,0.610253333,Infiniband,Infiniband EDR
+8,19476.6,26873.856,0.724741548,Omnipath,Intel Omni-Path
+9,17590,27112.55,0.648777042,Custom Interconnect,Cray Gemini interconnect
+10,17173.224,20132.6592,0.853003263,Custom Interconnect,Custom Interconnect
+11,15430,19904.4,0.775205482,Infiniband,Dual-rail Mellanox EDR Infiniband
+12,14014.7,27880.653,0.502667567,Custom Interconnect,Aries interconnect 
+13,13929.3,25705.9,0.54187171,Omnipath,Intel Omni-Path
+14,13554.6,24913.459,0.544067365,Omnipath,Intel Omni-Path
+15,12210,18621.138,0.655706434,Infiniband,Mellanox InfiniBand EDR
+16,11965.5,23396.352,0.511425884,Custom Interconnect,Bull BXI 1.2
+17,10680.7,18309.222,0.583350838,Omnipath,Intel Omni-Path
+18,10510,11280.384,0.931705871,Custom Interconnect,Custom Interconnect
+19,10384.9,18816,0.55191858,Omnipath,Intel Omni-Path
+20,9000,15208.23,0.591784843,Infiniband,Mellanox InfiniBand EDR
+21,8586.612,10066.33,0.85300323,Custom Interconnect,Custom Interconnect
+22,8125,12127.069,0.669988766,Omnipath,Intel Omni-Path
+23,7038.93,8128.512,0.86595554,Custom Interconnect,Aries interconnect 
+24,6920.9,11661.312,0.593492396,Custom Interconnect,Aries interconnect 
+25,6470.8,10296.115,0.628470059,Omnipath,Intel Omni-Path
+26,6177.73,9891.072,0.624576386,Infiniband,Mellanox EDR InfiniBand/ParTec ParaStation ClusterSuite
+27,5951.55,7107.1488,0.83740332,Infiniband,Infiniband FDR
+28,5730.5,9125.222,0.627984722,Custom Interconnect,Aries interconnect 
+29,5730.5,9125.222,0.627984722,Custom Interconnect,Aries interconnect 
+30,5640.17,7403.52,0.761822755,Custom Interconnect,Aries interconnect 
+31,5612.83,9793.536,0.573115778,Omnipath,Intel Omni-Path
+32,5536.99,7235.174,0.765287746,Custom Interconnect,Aries interconnect 
+33,5444.64,8316.518,0.654677835,Infiniband,Infiniband EDR
+34,5283.11,6712.32,0.787076599,Infiniband,Infiniband FDR
+35,4850.66,7257.6,0.66835593,Infiniband,EDR Infiniband/ 8D Hypercube
+36,4788.19,5332.32,0.897956237,Infiniband,Infiniband EDR
+37,4540.69,6912,0.65692853,Infiniband,Mellanox InfiniBand EDR
+38,4325,6134.1696,0.705066909,Gigabit Ethernet,200Gb 6D-Torus
+39,4293.306,5033.165,0.85300323,Custom Interconnect,Custom Interconnect
+40,4065.55,6635.52,0.612695011,Infiniband,Mellanox InfiniBand EDR
+41,4042.46,5369.856,0.752806034,Custom Interconnect,Aries interconnect 
+42,3944.68,4249.325,0.928307437,Custom Interconnect,Aries interconnect 
+43,3944.68,4249.325,0.928307437,Custom Interconnect,Aries interconnect 
+44,3782.57,6563.84,0.576273949,Infiniband,Infiniband EDR
+45,3763.94,4006.195,0.939529903,Custom Interconnect,Aries interconnect 
+46,3577,6131.84,0.583348554,Infiniband,Infiniband FDR
+47,3577,6131.84,0.583348554,Infiniband,Infiniband FDR
+48,3409.61,5865.5232,0.581296823,Custom Interconnect,Aries interconnect 
+49,3318.95,4570.56,0.726158283,Infiniband,Infiniband FDR
+50,3307,4896.512,0.675378719,Infiniband,Infiniband EDR
+51,3307,4896.512,0.675378719,Infiniband,Infiniband EDR
+52,3275.67,5170.176,0.633570308,Omnipath,Intel Omni-Path
+53,3243.41,3791.5776,0.855424929,Infiniband,Infiniband EDR
+54,3221.4,4777.574,0.67427527,Omnipath,Intel Omni-Path
+55,3188,4605,0.692290988,Infiniband,Infiniband FDR
+56,3157,3481.056,0.906908708,Proprietary Network,Tofu interconnect 2
+57,3143.52,4881.2544,0.643998395,Custom Interconnect,Aries interconnect 
+58,3126.24,5610.481,0.557214257,Infiniband,Infiniband FDR
+59,3074.19,4608,0.667141927,Infiniband,Infiniband EDR
+60,3057.35,5483.52,0.557552448,Custom Interconnect,Aries interconnect 
+61,3057,4241.448,0.720744425,Infiniband,Mellanox InfiniBand EDR
+62,3010.68,3962.88,0.759720203,Infiniband,Infiniband FDR
+63,2910,3244.032,0.897031842,Proprietary Network,Tofu interconnect 2
+64,2897,3185.05,0.909561859,Infiniband,Infiniband FDR
+65,2813.62,3578.266,0.786308229,Infiniband,Infiniband FDR14
+66,2801.782,3019.162,0.927999889,Custom Interconnect,Aries interconnect 
+67,2801.782,3019.162,0.927999889,Custom Interconnect,Aries interconnect 
+68,2787.14,4190.208,0.665155524,Custom Interconnect,Aries interconnect 
+69,2785,5735.68512,0.485556641,Infiniband,Infiniband QDR
+70,2632.51,3207.8592,0.820643874,Omnipath,Intel Omni-Path
+71,2632.51,3207.8592,0.820643874,Omnipath,Intel Omni-Path
+72,2592,3798.6,0.682356658,Infiniband,Infiniband EDR
+73,2570.4,2808.691,0.915159411,Custom Interconnect,Aries interconnect 
+74,2566,4701,0.54584131,Proprietary Network,Proprietary
+75,2547,4229.8496,0.602149069,Infiniband,Infiniband EDR
+76,2539.13,3388.032,0.749440973,Infiniband,Infiniband FDR
+77,2494.65,3570.278,0.698727102,Infiniband,Infiniband FDR
+78,2485,3682.3552,0.674839842,Custom Interconnect,Aries interconnect 
+79,2478,4946.79,0.500930907,Infiniband,Infiniband FDR
+80,2443.7,2601.984,0.939167958,Infiniband,Infiniband EDR
+81,2435,4004.25,0.60810389,Infiniband,Infiniband EDR
+82,2395.68,2895.36,0.827420424,Custom Interconnect,Aries interconnect 
+83,2395.68,2895.36,0.827420424,Custom Interconnect,Aries interconnect 
+84,2376,2621.03,0.906513851,Proprietary Network,Tofu interconnect 2
+85,2322.46,3581.76,0.648413071,Omnipath,Intel Omni-Path
+86,2287,4890,0.467689162,Gigabit Ethernet,25G Ethernet
+87,2271.38,2688,0.84500744,Omnipath,Intel Omni-Path
+88,2249.68,3041.28,0.739714857,Infiniband,Infiniband QDR
+89,2167.99,2534.4,0.855425347,Infiniband,Infiniband FDR
+90,2157.41,2585.088,0.834559597,Infiniband,Infiniband FDR
+91,2089.98,3072,0.680332031,Custom Interconnect,Aries interconnect 
+92,2071.39,3074.5344,0.673724776,Custom Interconnect,TH Express-2
+93,2001.99,2985.984,0.6704624,Omnipath,Intel Omni-Path
+94,2001.99,2985.984,0.6704624,Omnipath,Intel Omni-Path
+95,2000,3053.568,0.654971496,Omnipath,Intel Omni-Path
+96,1997,4104.32,0.486560502,Gigabit Ethernet,10G Ethernet
+97,1980.53,3052.339,0.6488565,Omnipath,Intel Omni-Path
+98,1979,4096.512,0.48309391,Gigabit Ethernet,10G Ethernet
+99,1967.81,2800.86998,0.702570992,Omnipath,Intel Omni-Path
+100,1966.08,2491.3728,0.78915528,Infiniband,Infiniband FDR
+101,1929.37,2409.6,0.800701361,Infiniband,Infiniband FDR
+102,1928,3974.4,0.48510467,Gigabit Ethernet,10G Ethernet
+103,1914.389,4292.352,0.446000002,Gigabit Ethernet,10G Ethernet
+104,1896.75,2193.005,0.864909109,Custom Interconnect,Aries interconnect 
+105,1871,2586.01,0.723508416,Infiniband,Infiniband FDR
+106,1831.49,3456,0.529945023,Gigabit Ethernet,25G Ethernet
+107,1829.86,4329.728,0.42262701,Infiniband,Infiniband EDR
+108,1825,3353.184,0.54425883,Gigabit Ethernet,10G Ethernet
+109,1807,3698.688,0.488551616,Gigabit Ethernet,10G Ethernet
+110,1804,2923.776,0.617010332,Infiniband,Infiniband FDR
+111,1802.51,2438.14,0.739297169,Custom Interconnect,Aries interconnect 
+112,1790,3696,0.484307359,Gigabit Ethernet,10G Ethernet
+113,1785.62,3072.768,0.581111233,Omnipath,Intel Omni-Path
+114,1768.59,2861.568,0.618049265,Infiniband,Infiniband FDR
+115,1750.18,2709.504,0.645941102,Omnipath,Intel Omni-Path
+116,1736,7206.912,0.240879866,Gigabit Ethernet,10G Ethernet
+117,1735.66,2799.36,0.62002029,Infiniband,Infiniband FDR
+118,1729,3072,0.562825521,Gigabit Ethernet,10G Ethernet
+119,1729,3072,0.562825521,Gigabit Ethernet,10G Ethernet
+120,1729,3072,0.562825521,Gigabit Ethernet,10G Ethernet
+121,1728.88,3978.24,0.434584138,Gigabit Ethernet,10G Ethernet
+122,1723.89,2003.098,0.860611912,Omnipath,Intel Omni-Path
+123,1714,3149.6,0.544196088,Gigabit Ethernet,10G Ethernet
+124,1703.508,2737.152,0.622365145,Infiniband,Infiniband FDR
+125,1703.28,2304,0.739270833,Infiniband,Infiniband FDR
+126,1691,2703.36,0.625517874,Infiniband,Infiniband EDR
+127,1686.54,2488.32,0.6777826,Omnipath,Intel Omni-Path
+128,1684.19,2703.36,0.622998787,Infiniband,Infiniband EDR
+129,1683,3446.784,0.48828125,Gigabit Ethernet,10G Ethernet
+130,1676.22,3801.424,0.440945288,Infiniband,Infiniband EDR
+131,1670.09,2348.64,0.711088119,Infiniband,Infiniband FDR
+132,1668.16,2674.944,0.62362427,Infiniband,Infiniband FDR
+133,1667.72,3207.168,0.519997705,Gigabit Ethernet,10G Ethernet
+134,1654.702,2569.4208,0.643998056,Custom Interconnect,Aries interconnect 
+135,1653.22,3440.64,0.480497814,Gigabit Ethernet,10G Ethernet
+136,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+137,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+138,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+139,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+140,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+141,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+142,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+143,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+144,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+145,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+146,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+147,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+148,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+149,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+150,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+151,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+152,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+153,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+154,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+155,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+156,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+157,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+158,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+159,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+160,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+161,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+162,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+163,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+164,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+165,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+166,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+167,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+168,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+169,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+170,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+171,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+172,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+173,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+174,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+175,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+176,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+177,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+178,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+179,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+180,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+181,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+182,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+183,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+184,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+185,1649.11,2119.68,0.777999509,Gigabit Ethernet,40G Ethernet
+186,1642.536,2550.528,0.643998419,Custom Interconnect,Aries interconnect 
+187,1639.3,3072,0.533626302,Gigabit Ethernet,25G Ethernet
+188,1635.02,2036.736,0.802764816,Custom Interconnect,Aries interconnect 
+189,1635.02,2036.736,0.802764816,Custom Interconnect,Aries interconnect 
+190,1632.96,3715.8912,0.439453125,Omnipath,Intel Omni-Path
+191,1630.13,2637.71,0.618009561,Infiniband,Infiniband EDR
+192,1608.22,3008,0.534647606,Gigabit Ethernet,25G Ethernet
+193,1603.23,3333.12,0.480999784,Gigabit Ethernet,10G Ethernet
+194,1601,2580.48,0.620427207,Infiniband,Infiniband EDR
+195,1593.03,2573.376,0.619042845,Infiniband,Infiniband EDR
+196,1587,1931.625,0.821588041,Custom Interconnect,Custom Interconnect
+197,1579.98,2944,0.536677989,Gigabit Ethernet,25G Ethernet
+198,1562,3238.4,0.482336957,Gigabit Ethernet,10G Ethernet
+199,1558.4,2509.042,0.621113556,Infiniband,Infiniband EDR
+200,1555.97,2985.984,0.521091205,Gigabit Ethernet,10G Ethernet
+201,1552.44,2880,0.539041667,Gigabit Ethernet,25G Ethernet
+202,1551.51,3225.6,0.480998884,Gigabit Ethernet,10G Ethernet
+203,1537.19,3182.592,0.482999392,Gigabit Ethernet,10G Ethernet
+204,1529,2005.248,0.762499202,Infiniband,4xEDR Infiniband
+205,1524.72,1792.627,0.850550616,Omnipath,Intel Omni-Path
+206,1521.94,2816,0.540461648,Gigabit Ethernet,25G Ethernet
+207,1520.97,2444.707,0.622148176,Infiniband,Infiniband EDR
+208,1498.32,2412.54,0.621054988,Infiniband,Infiniband EDR
+209,1492.78,2752,0.542434593,Gigabit Ethernet,25G Ethernet
+210,1477.92,3053.568,0.483997736,Gigabit Ethernet,10G Ethernet
+211,1471,3000,0.490333333,Infiniband,Infiniband FDR
+212,1462.97,2507.264,0.583492604,Omnipath,Intel Omni-Path
+213,1462.27,2688,0.543999256,Gigabit Ethernet,25G Ethernet
+214,1457.73,2011.641,0.724647191,Infiniband,Infiniband FDR
+215,1443.56,2316.038,0.623288564,Infiniband,Infiniband EDR
+216,1443.56,2316.038,0.623288564,Infiniband,Infiniband EDR
+217,1432.9,2153.536,0.665370813,Gigabit Ethernet,100G Ethernet
+218,1432,2624,0.545731707,Gigabit Ethernet,25G Ethernet
+219,1431.102,1677.722,0.85300306,Custom Interconnect,Custom Interconnect
+220,1428,1920,0.74375,Infiniband,56Gb 3D-Torus
+221,1418,2413.824,0.587449624,Infiniband,Infiniband FDR
+222,1417,2914.56,0.486179732,Gigabit Ethernet,10G Ethernet
+223,1416,1999.872,0.708045315,Infiniband,Infiniband FDR
+224,1415.47,1530.5472,0.924813034,Infiniband,Infiniband FDR
+225,1405,5740.8,0.244739409,Gigabit Ethernet,10G Ethernet
+226,1405,2329.6,0.60310783,Gigabit Ethernet,100Gb 6D-Torus
+227,1400.88,2560,0.54721875,Gigabit Ethernet,25G Ethernet
+228,1391,4917.658,0.282858222,Infiniband,Infiniband FDR
+229,1389,2459.002,0.564863306,Gigabit Ethernet,10G Ethernet
+230,1363.48,1676.506,0.813286681,Infiniband,Infiniband FDR
+231,1359,1667.174,0.815151868,Infiniband,Infiniband QDR
+232,1352,2332,0.579759863,Gigabit Ethernet,25G Ethernet
+233,1348.56,2780.467,0.48501205,Gigabit Ethernet,10G Ethernet
+234,1346.76,2457.6,0.547998047,Gigabit Ethernet,25G Ethernet
+235,1345,2770.944,0.485394147,Gigabit Ethernet,10G Ethernet
+236,1337,2863.411,0.466925635,Omnipath,Intel Omni-Path
+237,1326.25,2027.52,0.65412425,Infiniband,4xEDR Infiniband
+238,1325.15,2088.96,0.634358724,Omnipath,Intel Omni-Path
+239,1319.52,2400,0.5498,Gigabit Ethernet,25G Ethernet
+240,1319.52,2400,0.5498,Gigabit Ethernet,25G Ethernet
+241,1316.84,2393.6,0.550150401,Gigabit Ethernet,25G Ethernet
+242,1314,2319.286,0.566553672,Gigabit Ethernet,10G Ethernet
+243,1311.33,2339.6352,0.560484814,Custom Interconnect,Bull BXI 1.2
+244,1307,1950.4,0.67011895,Infiniband,Infiniband FDR
+245,1306,2675.2,0.488187799,Gigabit Ethernet,10G Ethernet
+246,1299.47,1479.475,0.878331841,Infiniband,Infiniband EDR
+247,1289,1686.571,0.764272598,Infiniband,Dual-rail Mellanox EDR Infiniband
+248,1286,1806.336,0.711938421,Infiniband,Infiniband FDR
+249,1285.6,2049.602,0.627243728,Custom Interconnect,Aries interconnect 
+250,1285.6,2049.602,0.627243728,Custom Interconnect,Aries interconnect 
+251,1284.5,2621.44,0.489997864,Gigabit Ethernet,10G Ethernet
+252,1284.26,2334.72,0.550070244,Gigabit Ethernet,25G Ethernet
+253,1283.3119,1463.168,0.877077615,Infiniband,Infiniband FDR
+254,1276,2662.4,0.479266827,Gigabit Ethernet,10G Ethernet
+255,1271,2984.3,0.42589552,Infiniband,Infiniband QDR
+256,1271,2611.2,0.486749387,Gigabit Ethernet,10G Ethernet
+257,1269,2560,0.495703125,Gigabit Ethernet,10G Ethernet
+258,1269,2560,0.495703125,Gigabit Ethernet,10G Ethernet
+259,1266,2618.88,0.483412757,Gigabit Ethernet,10G Ethernet
+260,1262,2580.48,0.4890563,Gigabit Ethernet,10G Ethernet
+261,1258,2569.728,0.489545975,Gigabit Ethernet,10G Ethernet
+262,1257.62,2285.568,0.550243966,Gigabit Ethernet,25G Ethernet
+263,1257.615,1503.59,0.836408196,Infiniband,Infiniband FDR
+264,1257,1305.6,0.962775735,Gigabit Ethernet,10G Ethernet
+265,1254,5196.8,0.24130234,Gigabit Ethernet,10G Ethernet
+266,1252,2562.56,0.488573926,Gigabit Ethernet,10G Ethernet
+267,1250,1689.2928,0.739954613,Custom Interconnect,Aries interconnect 
+268,1242,2534.4,0.490056818,Gigabit Ethernet,10G Ethernet
+269,1238,1845.3504,0.670875298,Infiniband,Infiniband FDR
+270,1237,2050.048,0.603400506,Gigabit Ethernet,100Gb 6D-Torus
+271,1228,2641.408,0.464903567,Infiniband,Infiniband EDR/FDR
+272,1228,2242.624,0.547572843,Infiniband,Infiniband EDR
+273,1228,2242.624,0.547572843,Infiniband,Infiniband EDR
+274,1228,2242.624,0.547572843,Infiniband,Infiniband EDR
+275,1225.28,1647.36,0.743783994,Infiniband,Infiniband FDR
+276,1223.7,1357.171,0.901654987,Omnipath,Intel Omni-Path
+277,1223.7,1357.171,0.901654987,Omnipath,Intel Omni-Path
+278,1214.2,1459.814,0.831749798,Custom Interconnect,Aries interconnect 
+279,1213.62,1980.72,0.612716588,Gigabit Ethernet,25G Ethernet
+280,1213,3244.8,0.373828895,Infiniband,Infiniband EDR
+281,1212.8,5160.96,0.23499504,Gigabit Ethernet,10G Ethernet
+282,1202.68,2304,0.521996528,Gigabit Ethernet,10G Ethernet
+283,1200.35,1293.005,0.928341344,Custom Interconnect,Aries interconnect 
+284,1193,1751.616,0.681085352,Infiniband,Infiniband EDR
+285,1188,2120,0.560377358,Gigabit Ethernet,25G Ethernet
+286,1188,2120,0.560377358,Gigabit Ethernet,25G Ethernet
+287,1182,2204.8,0.536103048,Gigabit Ethernet,25G Ethernet
+288,1182,2204.8,0.536103048,Gigabit Ethernet,25G Ethernet
+289,1181.074,1980.826,0.59625328,Infiniband,Infiniband EDR
+290,1181.074,1980.826,0.59625328,Infiniband,Infiniband EDR
+291,1180,2200.64,0.536207649,Gigabit Ethernet,25G Ethernet
+292,1179.58,1335.398,0.883317183,Omnipath,Intel Omni-Path
+293,1178.3,1520.64,0.774871107,Infiniband,Infiniband FDR
+294,1171,2120,0.552358491,Gigabit Ethernet,25G Ethernet
+295,1171,2120,0.552358491,Gigabit Ethernet,25G Ethernet
+296,1167,1505.28,0.775271046,Custom Interconnect,Cray Gemini interconnect
+297,1161,2400,0.48375,Infiniband,Infiniband EDR
+298,1156.5,2366.976,0.48859811,Gigabit Ethernet,10G Ethernet
+299,1154.8,1964.909,0.587711696,Gigabit Ethernet,100G Ethernet
+300,1152,2544,0.452830189,Gigabit Ethernet,25G Ethernet
+301,1152,2413.824,0.477251034,Gigabit Ethernet,25G Ethernet
+302,1152,2361.6,0.487804878,Gigabit Ethernet,25G Ethernet
+303,1152,2361.6,0.487804878,Gigabit Ethernet,25G Ethernet
+304,1152,2361.6,0.487804878,Gigabit Ethernet,25G Ethernet
+305,1149.57,2870.4,0.400491221,Gigabit Ethernet,10G Ethernet
+306,1145.41,2365.44,0.484227036,Gigabit Ethernet,10G Ethernet
+307,1144.84,1332.979,0.858858242,Omnipath,Intel Omni-Path
+308,1144.84,1332.979,0.858858242,Omnipath,Intel Omni-Path
+309,1142.44,1156.845,0.987548029,Omnipath,Intel Omni-Path
+310,1142.232,1591.296,0.717799831,Infiniband,Infiniband FDR
+311,1142,2278.464,0.501214854,Gigabit Ethernet,10G Ethernet
+312,1142,2278.464,0.501214854,Gigabit Ethernet,100G Ethernet
+313,1142,2278.464,0.501214854,Gigabit Ethernet,10G Ethernet
+314,1142,2278.464,0.501214854,Gigabit Ethernet,10G Ethernet
+315,1142,2235.456,0.51085774,Gigabit Ethernet,25G Ethernet
+316,1128,2380.8,0.473790323,Gigabit Ethernet,10G Ethernet
+317,1128,2380.8,0.473790323,Gigabit Ethernet,10G Ethernet
+318,1128,2160,0.522222222,Gigabit Ethernet,25G Ethernet
+319,1128,2160,0.522222222,Gigabit Ethernet,25G Ethernet
+320,1128,2160,0.522222222,Gigabit Ethernet,25G Ethernet
+321,1128,2120,0.532075472,Gigabit Ethernet,25G Ethernet
+322,1128,2120,0.532075472,Gigabit Ethernet,25G Ethernet
+323,1128,2120,0.532075472,Gigabit Ethernet,10G Ethernet
+324,1127.49,2296.32,0.490998641,Gigabit Ethernet,10G Ethernet
+325,1127.154,1548.288,0.728000217,Infiniband,Infiniband FDR
+326,1127,2235.456,0.5041477,Gigabit Ethernet,100G Ethernet
+327,1127,2235.456,0.5041477,Gigabit Ethernet,100G Ethernet
+328,1127,2235.456,0.5041477,Gigabit Ethernet,100G Ethernet
+329,1127,2235.456,0.5041477,Gigabit Ethernet,100G Ethernet
+330,1124,2280.96,0.492774972,Gigabit Ethernet,10G Ethernet
+331,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+332,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+333,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+334,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+335,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+336,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+337,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+338,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+339,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+340,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+341,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+342,1123.15,1413.12,0.794801574,Gigabit Ethernet,40G Ethernet
+343,1123,10059.552,0.11163519,Gigabit Ethernet,10G Ethernet
+344,1121.13,1397.76,0.802090488,Infiniband,Infiniband EDR
+345,1121.13,1397.76,0.802090488,Infiniband,Infiniband EDR
+346,1121,2323.2,0.482524105,Gigabit Ethernet,10G Ethernet
+347,1110,2164.8,0.512749446,Gigabit Ethernet,25G Ethernet
+348,1110,2164.8,0.512749446,Gigabit Ethernet,25G Ethernet
+349,1110,2164.8,0.512749446,Gigabit Ethernet,25G Ethernet
+350,1110,2164.8,0.512749446,Gigabit Ethernet,25G Ethernet
+351,1108,2257.92,0.49071712,Gigabit Ethernet,10G Ethernet
+352,1106,2304,0.480034722,Gigabit Ethernet,10G Ethernet
+353,1106,2304,0.480034722,Gigabit Ethernet,10G Ethernet
+354,1106,1748.39,0.632581975,Infiniband,Infiniband FDR
+355,1102,2252.8,0.489169034,Gigabit Ethernet,10G Ethernet
+356,1101.6,3360,0.327857143,Gigabit Ethernet,10G Ethernet
+357,1101.6,3360,0.327857143,Gigabit Ethernet,10G Ethernet
+358,1097.558,1485.6192,0.738788244,Custom Interconnect,Aries interconnect 
+359,1089.87,1445.069,0.75419928,Infiniband,Infiniband EDR
+360,1088.51,1327.104,0.820214542,Infiniband,Infiniband FDR
+361,1087.58,1172.102,0.927888528,Infiniband,Infiniband FDR
+362,1086.42,2052.864,0.529221614,Gigabit Ethernet,10G Ethernet
+363,1085.46,1509.581,0.719047206,Infiniband,Infiniband FDR
+364,1080,9995.04,0.108053595,Gigabit Ethernet,10G Ethernet
+365,1080,9995.04,0.108053595,Gigabit Ethernet,10G Ethernet
+366,1080,2740.68,0.394062787,Gigabit Ethernet,10G Ethernet
+367,1075,1602.7648,0.670716003,Omnipath,Intel Omni-Path
+368,1073.327,1258.291,0.853003796,Custom Interconnect,Custom Interconnect
+369,1073.327,1258.291,0.853003796,Custom Interconnect,Custom Interconnect
+370,1072.83,2021.76,0.530641619,Gigabit Ethernet,10G Ethernet
+371,1071.42,1730.56,0.619117511,Infiniband,Infiniband EDR
+372,1071.42,1730.56,0.619117511,Infiniband,Infiniband EDR
+373,1070.59,1750.016,0.611760121,Omnipath,Intel Omni-Path
+374,1070,1819.752,0.58799221,Infiniband,Infiniband EDR
+375,1063.305,1353.216,0.785761475,Infiniband,Infiniband EDR
+376,1061.019,1462.579,0.725443891,Infiniband,Infiniband FDR
+377,1060.19,1990.656,0.532583229,Gigabit Ethernet,10G Ethernet
+378,1060.19,1824.768,0.580999886,Gigabit Ethernet,10G Ethernet
+379,1052,1473.6,0.713897937,Infiniband,Infiniband FDR
+380,1050.54,1164.698,0.901984892,Infiniband,Infiniband EDR
+381,1050,1254.55,0.836953489,Infiniband,Infiniband QDR
+382,1048,2014,0.520357498,Gigabit Ethernet,25G Ethernet
+383,1046.12,1959.552,0.533856718,Gigabit Ethernet,10G Ethernet
+384,1044,2129.92,0.490159255,Gigabit Ethernet,10G Ethernet
+385,1042,2120,0.491509434,Gigabit Ethernet,25G Ethernet
+386,1042,2120,0.491509434,Gigabit Ethernet,25G Ethernet
+387,1042,1968,0.529471545,Gigabit Ethernet,25G Ethernet
+388,1042,1968,0.529471545,Gigabit Ethernet,25G Ethernet
+389,1042,1968,0.529471545,Gigabit Ethernet,25G Ethernet
+390,1038.43,2147.2,0.483620529,Gigabit Ethernet,10G Ethernet
+391,1038.4,3200,0.3245,Gigabit Ethernet,10G Ethernet
+392,1038,1858.56,0.558496901,Gigabit Ethernet,10G Ethernet
+393,1038,1858.56,0.558496901,Gigabit Ethernet,10G Ethernet
+394,1036,2112,0.490530303,Gigabit Ethernet,10G Ethernet
+395,1032.82,1725.235,0.598654676,Omnipath,Intel Omni-Path
+396,1031.17,1582.08,0.651781199,Omnipath,Intel Omni-Path
+397,1031.14,1928.448,0.534699406,Gigabit Ethernet,10G Ethernet
+398,1030,1908,0.539832285,Gigabit Ethernet,10G Ethernet
+399,1029.94,1386.24,0.7429738,Infiniband,Infiniband FDR
+400,1029.32,1366.81,0.753081994,Infiniband,Infiniband FDR
+401,1029,3024.9592,0.340169877,Infiniband,Infiniband FDR
+402,1028,2069.76,0.496675943,Gigabit Ethernet,10G Ethernet
+403,1026,2073.6,0.494791667,Gigabit Ethernet,10G Ethernet
+404,1022.01,2112,0.48390625,Gigabit Ethernet,10G Ethernet
+405,1022,1484,0.688679245,Custom Interconnect,Bull BXI 1.2
+406,1021,2014,0.506951341,Gigabit Ethernet,25G Ethernet
+407,1020.5,1715.616,0.594830079,Gigabit Ethernet,10G Ethernet
+408,1020.5,1715.616,0.594830079,Gigabit Ethernet,10G Ethernet
+409,1020.5,1715.616,0.594830079,Gigabit Ethernet,10G Ethernet
+410,1018,1502.2362,0.677656416,Infiniband,Infiniband FDR
+411,1018,1485.527,0.685278692,Infiniband,Dual-rail Mellanox EDR Infiniband
+412,1017.04,1249.997,0.813633953,Custom Interconnect,Aries interconnect 
+413,1016.38,1897.344,0.535685674,Gigabit Ethernet,10G Ethernet
+414,1015,2112,0.480587121,Gigabit Ethernet,10G Ethernet
+415,1014,1227.571,0.826021468,Custom Interconnect,Aries interconnect 
+416,1013.721,1372.134,0.738791547,Infiniband,56G Infiniband FDR
+417,1013.472,3974.4,0.255,Gigabit Ethernet,10G Ethernet
+418,1012.046,1410.048,0.717738687,Infiniband,Infiniband FDR
+419,1012.046,1410.048,0.717738687,Infiniband,Infiniband FDR
+420,1011.86,1399.91,0.722803609,Omnipath,Intel Omni-Path
+421,1010.94,1413.12,0.71539572,Infiniband,Infiniband
+422,1010,1285.939,0.785418282,Infiniband,Infiniband EDR
+423,1005.45,1634.304,0.615216019,Omnipath,Intel Omni-Path
+424,1004,1929.2,0.520422973,Gigabit Ethernet,25G Ethernet
+425,1004,1929.2,0.520422973,Gigabit Ethernet,25G Ethernet
+426,1001.68,1772.88,0.565001579,Gigabit Ethernet,10G Ethernet
+427,1001.63,1548.288,0.646927445,Omnipath,Intel Omni-Path
+428,1001.01,1533.46048,0.652778479,Infiniband,Infiniband FDR
+429,1000.52,1299.9168,0.769680029,Infiniband,Infiniband FDR
+430,991.525,1425.715,0.695458068,Custom Interconnect,Aries interconnect 
+431,990.7,2016,0.491418651,Gigabit Ethernet,10G Ethernet
+432,989.6,1092.096,0.906147445,Proprietary Network,Tofu interconnect 2
+433,989.6,1092.096,0.906147445,Proprietary Network,Tofu interconnect 2
+434,988.2,1908,0.517924528,Gigabit Ethernet,25G Ethernet
+435,986,2112,0.466856061,Gigabit Ethernet,10G Ethernet
+436,986,2112,0.466856061,Gigabit Ethernet,10G Ethernet
+437,984.8,1996.8,0.493189103,Gigabit Ethernet,10G Ethernet
+438,981.2,1643.2,0.597127556,Infiniband,Infiniband FDR
+439,976.763,1341.096,0.728331902,Infiniband,Infiniband FDR
+440,974,2048,0.475585938,Gigabit Ethernet,10G Ethernet
+441,974,2048,0.475585938,Gigabit Ethernet,10G Ethernet
+442,974,1906.688,0.510833445,Infiniband,Infiniband EDR
+443,973.5,1819.0336,0.535174282,Gigabit Ethernet,100G Ethernet
+444,972.052,2544.64,0.381999811,Gigabit Ethernet,10G Ethernet
+445,971.04,1437.696,0.675413996,Custom Interconnect,Aries interconnect 
+446,961,2148.8,0.447226359,Infiniband,Infiniband EDR
+447,960.3,1966.08,0.488433838,Gigabit Ethernet,10G Ethernet
+448,958.734,997.248,0.961379717,Infiniband,Infiniband FDR
+449,958.67,1449.984,0.66115902,Infiniband,Mellanox InfiniBand EDR
+450,957.6,1212.0192,0.790086494,Custom Interconnect,Aries interconnect 
+451,954.72,3744,0.255,Gigabit Ethernet,10G Ethernet
+452,954.72,3744,0.255,Gigabit Ethernet,10G Ethernet
+453,953.7,1935.36,0.492776538,Gigabit Ethernet,10G Ethernet
+454,953.571,1081.651,0.881588424,Infiniband,Infiniband EDR
+455,951.743,1539.418,0.618248585,Gigabit Ethernet,10G Ethernet
+456,947.889,1584.128,0.59836642,Custom Interconnect,Bull BXI 1.2
+457,946.8,1935.36,0.48921131,Gigabit Ethernet,10G Ethernet
+458,944.2,1908,0.494863732,Gigabit Ethernet,25G Ethernet
+459,944.2,1908,0.494863732,Gigabit Ethernet,25G Ethernet
+460,942.829,1135.411,0.830385649,Omnipath,Intel Omni-Path
+461,942.4,1920,0.490833333,Gigabit Ethernet,10G Ethernet
+462,941.277,1327.104,0.709271466,Infiniband,Infiniband EDR
+463,937.943,1101.005,0.85189713,Infiniband,Infiniband EDR
+464,935.6,1150.822,0.81298411,Infiniband,Infiniband FDR
+465,934.7,1908,0.489884696,Gigabit Ethernet,25G Ethernet
+466,934.2,1943.04,0.480792984,Gigabit Ethernet,10G Ethernet
+467,934.2,1943.04,0.480792984,Gigabit Ethernet,10G Ethernet
+468,934.2,1943.04,0.480792984,Gigabit Ethernet,10G Ethernet
+469,932.3,1904.64,0.489488827,Gigabit Ethernet,10G Ethernet
+470,931.2,1900.8,0.48989899,Gigabit Ethernet,10G Ethernet
+471,926.1,1676.592,0.552370523,Gigabit Ethernet,40G Ethernet
+472,920.8,1881.6,0.489370748,Gigabit Ethernet,10G Ethernet
+473,918.844,1641.728,0.559681019,Gigabit Ethernet,10G Ethernet
+474,918.4,1843.2,0.498263889,Gigabit Ethernet,10G Ethernet
+475,915.425,1520.64,0.601999816,Gigabit Ethernet,10G Ethernet
+476,914.8,1840,0.497173913,Gigabit Ethernet,10G Ethernet
+477,914.688,1152,0.794,Infiniband,Infiniband FDR
+478,912.659,1602,0.56969975,Gigabit Ethernet,10G Ethernet
+479,912.659,1602,0.56969975,Gigabit Ethernet,10G Ethernet
+480,909.614,1082.266,0.840471751,Custom Interconnect,Aries interconnect 
+481,909.494,1341.85,0.677791109,Omnipath,Intel Omni-Path
+482,908.892,1425.408,0.637636382,Custom Interconnect,Aries interconnect 
+483,906.1,1800,0.503388889,Gigabit Ethernet,25G Ethernet
+484,904.15,1035.418,0.873222216,Custom Interconnect,Aries interconnect 
+485,904.15,1035.418,0.873222216,Custom Interconnect,Aries interconnect 
+486,902.156,1935.36,0.466143767,Gigabit Ethernet,10G Ethernet
+487,901.9,1700.21,0.530463884,Infiniband,Infiniband
+488,901.506,1244.16,0.724590085,Custom Interconnect,Aries interconnect 
+489,897.2,1444.16,0.621260802,Infiniband,Infiniband EDR
+490,895.077,1807.872,0.495099764,Gigabit Ethernet,10G Ethernet
+491,894.439,1048.576,0.853003502,Custom Interconnect,Custom Interconnect
+492,892.982,1244.16,0.717738876,Infiniband,Infiniband FDR
+493,884,1696,0.521226415,Gigabit Ethernet,25G Ethernet
+494,884,1696,0.521226415,Gigabit Ethernet,25G Ethernet
+495,882,1611.2,0.547418073,Gigabit Ethernet,25G Ethernet
+496,882,1611.2,0.547418073,Gigabit Ethernet,25G Ethernet
+497,881.8,1159.066,0.760784977,Infiniband,Infiniband FDR
+498,880.992,2213.12,0.398076923,Gigabit Ethernet,10G Ethernet
+499,875.85,1825.28,0.479844188,Gigabit Ethernet,10G Ethernet
+500,874.8,1817.6,0.481294014,Gigabit Ethernet,10G Ethernet
