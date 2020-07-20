@@ -1,0 +1,37 @@
+0	10.10.10.101:44883	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	26127	26127	4.5 h (29 min)	70.6 MB	1.7 GB	436.8 MB	
+stdout
+stderr
+driver	spark01:41964	Active	0	0.0 B / 17 GB	0.0 B	0	0	0	0	0	0 ms (0 ms)	0.0 B	0.0 B	0.0 B	
+1	10.10.10.102:35873	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	28198	28198	4.6 h (29 min)	73 MB	1.9 GB	455.5 MB	
+stdout
+stderr
+2	10.10.10.103:38253	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	27924	27924	4.7 h (33 min)	72.8 MB	1.9 GB	506.1 MB	
+stdout
+stderr
+3	10.10.10.103:34544	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	27380	27380	4.7 h (37 min)	68.2 MB	1.9 GB	489.7 MB	
+stdout
+stderr
+4	10.10.10.101:38725	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	27005	27005	4.6 h (30 min)	69.7 MB	1.8 GB	480.7 MB	
+stdout
+stderr
+5	10.10.10.102:34041	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	26460	26460	4.6 h (31 min)	76.4 MB	1.9 GB	432.1 MB	
+stdout
+stderr
+6	10.10.10.102:42145	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	27008	27008	4.4 h (36 min)	74.7 MB	1.8 GB	443.6 MB	
+stdout
+stderr
+7	10.10.10.103:46671	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	26067	26067	4.6 h (32 min)	69.6 MB	1.8 GB	436.6 MB	
+stdout
+stderr
+8	10.10.10.102:45387	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	28158	28158	4.5 h (38 min)	72.8 MB	1.8 GB	488.1 MB	
+stdout
+stderr
+9	10.10.10.103:38657	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	25735	25735	4.5 h (32 min)	70 MB	1.8 GB	411.6 MB	
+stdout
+stderr
+10	10.10.10.101:38955	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	25852	25852	4.5 h (32 min)	74 MB	1.6 GB	481.5 MB	
+stdout
+stderr
+11	10.10.10.101:40867	Active	0	0.0 B / 45.6 GB	0.0 B	24	0	0	25139	25139	4.5 h (30 min)	71.4 MB	1.6 GB	420.3 MB	
+stdout
+stderr
