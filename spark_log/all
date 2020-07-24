@@ -1,0 +1,7 @@
+# 			3x86_HC 	3x86_BQRS	18arm_HC	18arm_BQSR
+Deseriali\nzation	0.53404		0.015		0.5558		0.02
+Shuffle\nRead		0.0548146	0.04		0.09		0.0329
+Getting\nResult		0		0 		0		0
+Gabage\nCollection	0.126856	0.18		0.43		0.291
+Result\nSerialization	0.00021205	0		0		0		
+
